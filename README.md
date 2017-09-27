@@ -7,4 +7,4 @@ Demo: (http://vuetodomvc.surge.sh/)
 
 ## Screenshots
 
-
+![](https://github.com/kuanhsuh/Vue-todomvc/blob/master/vuetodo.png)
